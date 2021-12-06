@@ -13,7 +13,7 @@
 
 ---
 ### :hammer: Coding
-<img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
 <img align="left" alt="html" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 
@@ -30,7 +30,7 @@
 <img align="left" alt="html" width="44px" src="https://camo.githubusercontent.com/728910691bb690edee33bc5cfdf5c931f3b5d05a2f1dd3330766a09aa7a91698/68747470733a2f2f7265736f75726365732e6a6574627261696e732e636f6d2f73746f726167652f70726f64756374732f696e74656c6c696a2d696465612f696d672f6d6574612f696e74656c6c696a2d696465615f6c6f676f5f333030783330302e706e67">
 
 <br/>
-
+<br/>
 
 ---
 Entre mis repositorios encontrarás pequeños proyectos personales y ejercicios realizados a lo largo del curso. Hechos con cariño, pero no todos con el éxito que hubiese querido. De todos modos, eres más que bienvenido a verlos y aportar tu granito de arena. Adelante.
