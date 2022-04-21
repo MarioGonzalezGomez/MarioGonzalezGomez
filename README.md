@@ -5,7 +5,7 @@
 ### Periodista , Músico y new Developer() :baby:
 
 
-- :newspaper: Actualmente trabajando como redactor comercial en [GOMEL PRODUCCIONES](https://gomel.es/)
+- :newspaper: Actualmente haciendo prácticas como programador en RTVE ( Modelaje 3D, Big Data, SQL)
 - :books: Formándome como desarrollador en el segundo curso de DAM en [IES Luis Vives](http://iesluisvives.es/)
 - Apasionado del deporte :tennis:, la música :musical_keyboard: y el teatro :performing_arts:
 - Aprendiendo cada día a ser un mejor programador con este lema en mente:
