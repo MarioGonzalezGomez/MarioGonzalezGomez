@@ -38,4 +38,4 @@
 <br/>
 
 ---
-Entre mis repositorios encontrarás pequeños proyectos personales y ejercicios realizados a lo largo del curso. Hechos con cariño, pero no todos con el éxito que hubiese querido. De todos modos, eres más que bienvenido a verlos y aportar tu granito de arena. Adelante.
+Entre mis repositorios encontrarás pequeños proyectos personales,ejercicios realizados a lo largo de mi formación y alguno de los proyectos creados para RTVE. Hechos con mucho cariño, pero no todos con el éxito que hubiese querido. Eres más que bienvenido a verlos y aportar tu granito de arena. Adelante.
