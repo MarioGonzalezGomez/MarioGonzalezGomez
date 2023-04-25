@@ -5,7 +5,7 @@
 ### Developer, músico y periodista
 
 
-- :newspaper: Actualmente trabajando como programador en RTVE (Modelaje 3D, Big Data, procesamiento de datos, gráficos, SQL...). Aquí he profundizado en programas que unen lo gráfico con la programación, como Brainstorm o PRIME, en el cual  he obtenido el rango más alto de preparación "black belt".
+- :newspaper: Actualmente trabajando como programador en el departamento de Transformación Digital de RTVE (Modelaje 3D, Big Data, procesamiento de datos, gráficos...). Aquí he profundizado en programas que unen lo gráfico con la programación, como Brainstorm o PRIME, en el cual  he obtenido el rango más alto de preparación "black belt".
 - Apasionado del deporte :tennis:, la música :musical_keyboard: y el teatro :performing_arts:
 - Aprendiendo cada día a ser un mejor programador con este lema en mente:
 >Programa siempre tu código como si el tipo que va a tener que mantenerlo en el futuro fuera un violento psicópata que sabe dónde vives. —Martin Goldin
